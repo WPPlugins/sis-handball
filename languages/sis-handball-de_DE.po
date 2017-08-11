@@ -1,0 +1,732 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SIS Handball\n"
+"POT-Creation-Date: 2017-05-15 15:44+0200\n"
+"PO-Revision-Date: 2017-05-15 15:44+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-sis-handball-admin-table-concatenations.php:38
+#: admin/class-sis-handball-admin-table-snapshots.php:38
+msgid "ID"
+msgstr "ID"
+
+#: admin/class-sis-handball-admin-table-concatenations.php:39
+#: admin/class-sis-handball-admin-table-snapshots.php:39
+#: admin/class-sis-handball-admin-viewhelpers.php:374
+#: admin/class-sis-handball-admin-viewhelpers.php:377
+#: admin/class-sis-handball-admin-viewhelpers.php:411
+#: admin/class-sis-handball-admin-viewhelpers.php:414
+#: admin/class-sis-handball-admin-viewhelpers.php:510
+#: admin/class-sis-handball-admin-viewhelpers.php:513
+msgid "Comment"
+msgstr "Kommentar"
+
+#: admin/class-sis-handball-admin-table-concatenations.php:40
+#: admin/class-sis-handball-admin-table-snapshots.php:40
+#: admin/class-sis-handball-admin-viewhelpers.php:364
+#: admin/class-sis-handball-admin-viewhelpers.php:367
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: admin/class-sis-handball-admin-table-concatenations.php:41
+#: admin/class-sis-handball-admin-table-snapshots.php:41
+msgid "Created"
+msgstr "Erstellt"
+
+#: admin/class-sis-handball-admin-table-concatenations.php:90
+#: admin/class-sis-handball-admin-table-snapshots.php:90
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: admin/class-sis-handball-admin-table-concatenations.php:91
+#: admin/class-sis-handball-admin-table-snapshots.php:91
+#: admin/class-sis-handball-admin.php:233
+msgid "Delete"
+msgstr "Löschen"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:68
+#: admin/class-sis-handball-admin-viewhelpers.php:77
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:69
+msgid "Caching"
+msgstr "Caching"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:70
+#: admin/class-sis-handball-admin-viewhelpers.php:159
+msgid "Translations"
+msgstr "Übersetzungen"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:71
+#: admin/class-sis-handball-admin-viewhelpers.php:188
+#: admin/class-sis-handball-admin-viewhelpers.php:356
+#: admin/class-sis-handball-admin-viewhelpers.php:490
+msgid "About"
+msgstr "Über"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:77
+#: admin/class-sis-handball-admin-viewhelpers.php:207
+#: admin/class-sis-handball-admin-viewhelpers.php:334
+#: admin/class-sis-handball-admin-viewhelpers.php:354
+#: admin/class-sis-handball-admin-viewhelpers.php:405
+#: admin/class-sis-handball-admin-viewhelpers.php:447
+#: admin/class-sis-handball-admin-viewhelpers.php:470
+#: admin/class-sis-handball-admin-viewhelpers.php:488
+#: admin/class-sis-handball-admin.php:59 admin/class-sis-handball-admin.php:246
+msgid "SIS Handball"
+msgstr "SIS Handball"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:82
+msgid "Options"
+msgstr "Optionen"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:87
+#: admin/class-sis-handball-admin-viewhelpers.php:90
+#: admin/class-sis-handball-admin-viewhelpers.php:91
+msgid "Activate default styles"
+msgstr "Standard styles aktivieren"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:96
+#: admin/class-sis-handball-admin-viewhelpers.php:99
+#: admin/class-sis-handball-admin-viewhelpers.php:100
+msgid "Activate caching"
+msgstr "Caching aktivieren"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:101
+msgid "Caching the data makes your site much faster."
+msgstr "Der Cache macht deine Seite bedeutend schneller."
+
+#: admin/class-sis-handball-admin-viewhelpers.php:106
+msgid "Cache time"
+msgstr "Cache Zeit"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:109
+msgid "4 hours"
+msgstr "4 Stunden"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:110
+msgid "8 hours"
+msgstr "8 Stunden"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:111
+msgid "12 hours"
+msgstr "12 Stunden"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:112
+msgid "1 day"
+msgstr "1 Tag"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:113
+msgid "1 week"
+msgstr "1 Woche"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:118
+#: admin/class-sis-handball-admin-viewhelpers.php:121
+#: admin/class-sis-handball-admin-viewhelpers.php:122
+msgid "Display last cache update"
+msgstr "Letzte Cache Aktualisierung anzeigen"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:127
+#: admin/class-sis-handball-admin-viewhelpers.php:130
+#: admin/class-sis-handball-admin-viewhelpers.php:131
+msgid "Lazy load limited tables"
+msgstr "Begrenzte Tabellen nachladen lassen"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:136
+#: admin/class-sis-handball-admin-viewhelpers.php:139
+#: admin/class-sis-handball-admin-viewhelpers.php:140
+msgid "Ignore error messages"
+msgstr "Fehlermeldungen ignorieren"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:146
+#: admin/class-sis-handball-admin-viewhelpers.php:183
+#: admin/class-sis-handball-admin-viewhelpers.php:423
+msgid "Save"
+msgstr "Speichern"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:151
+msgid "Cache behavior"
+msgstr "Cache Verhalten"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:153
+msgid "Datasets in cache table"
+msgstr "Datensätze im Cache"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:153
+msgid "Last successful cache update"
+msgstr "Letzte erfolgreiche Cache Aktualisierung"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:153
+msgid ""
+"If changes on shortcodes do not affect the frontend view, clear the cache, "
+"it rebuilds itself."
+msgstr ""
+"Sollten Änderungen an Shortcodes nicht im Frontend erscheinen leere bitte "
+"den Cache, dieser baut sich danach automatisch neu auf."
+
+#: admin/class-sis-handball-admin-viewhelpers.php:154
+msgid "Clear cache"
+msgstr "Cache leeren"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:164
+#: admin/class-sis-handball-admin-viewhelpers.php:167
+msgid "Error text no data"
+msgstr "Fehlermeldung keine Daten vorhanden"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:168
+#: public/class-sis-handball-public.php:744
+msgid "Error: No data received!"
+msgstr "Fehler: Keine Daten vorhanden!"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:173
+#: admin/class-sis-handball-admin-viewhelpers.php:176
+msgid "Error text default"
+msgstr "Fehlermeldung standard"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:177
+#: public/class-sis-handball-public.php:751
+msgid "Error: An error occured!"
+msgstr "Fehler: Ein allgemeiner Fehler ist aufgetreten!"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:189
+#, php-format
+msgid ""
+"Feel free to visit the official <a href=\"%s\" target=\"_blank\">support "
+"forum</a> to leave feedback and suggestions."
+msgstr ""
+"Schau gerne im offiziellen <a href=\"%s\" target=\"_blank\">Support Forum</"
+"a> vorbei um Feedback oder Verbesserungsvorschläge zu hinterlassen."
+
+#: admin/class-sis-handball-admin-viewhelpers.php:207
+#: admin/class-sis-handball-admin-viewhelpers.php:369
+#: admin/class-sis-handball-admin.php:60
+msgid "Shortcode generator"
+msgstr "Shortcode Generator"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:208
+msgid "Shortcode builder"
+msgstr "Shortcode Generator"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:212
+#: admin/class-sis-handball-admin-viewhelpers.php:215
+#: admin/class-sis-handball-admin-viewhelpers.php:499
+#: admin/class-sis-handball-admin-viewhelpers.php:502
+msgid "Type"
+msgstr "Typ"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:217
+#: admin/class-sis-handball-admin.php:404
+msgid "Games of single team"
+msgstr "Spiele einer Mannschaft"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:218
+#: admin/class-sis-handball-admin.php:413
+msgid "All games in a league"
+msgstr "Alle Spiele einer Liga"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:219
+#: admin/class-sis-handball-admin.php:422
+msgid "Standings"
+msgstr "Tabelle"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:220
+#: admin/class-sis-handball-admin.php:431
+msgid "Next games of single team"
+msgstr "Nächste Spiele einer Mannschaft"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:221
+#: admin/class-sis-handball-admin.php:440
+msgid "Diagram of positioning"
+msgstr "Diagramm der Tabellenposition"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:222
+#: admin/class-sis-handball-admin.php:449
+msgid "Statistic of single team"
+msgstr "Statistik über ein einzelnes Team"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:224
+msgid ""
+"Diagrams monitor the current position over the season. If the season already "
+"startet, the diagram will also start on the current gameday!"
+msgstr ""
+"Diagramme überwachen die aktuelle Platzierung über die Saison. Wenn die "
+"Saison bereits läuft, startet das Diagramm am aktuellen Spieltag!"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:229
+#: admin/class-sis-handball-admin-viewhelpers.php:232
+#: admin/class-sis-handball-admin.php:227
+#: admin/class-sis-handball-admin.php:252
+#: admin/class-sis-handball-admin.php:255
+msgid "League ID"
+msgstr "Liga ID"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:233
+#: admin/class-sis-handball-admin-viewhelpers.php:236
+#: admin/class-sis-handball-admin.php:256
+#: admin/class-sis-handball-admin.php:259
+msgid "e.g."
+msgstr "z.B."
+
+#: admin/class-sis-handball-admin-viewhelpers.php:233
+msgid "Check link result"
+msgstr "Linkziel überprüfen"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:235
+#: admin/class-sis-handball-admin.php:258
+msgid "The last part of your selected url: "
+msgstr "Die ID findest du am Ende deiner ausgesuchten URL: "
+
+#: admin/class-sis-handball-admin-viewhelpers.php:242
+#: admin/class-sis-handball-admin-viewhelpers.php:245
+msgid "Sorting"
+msgstr "Sortierung"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:247
+msgid "Date ascending"
+msgstr "Nach Datum aufsteigend"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:248
+msgid "Date descending"
+msgstr "Nach Datum absteigend"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:254
+#: admin/class-sis-handball-admin-viewhelpers.php:257
+msgid "Limit"
+msgstr "Begrenzung"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:263
+#: admin/class-sis-handball-admin-viewhelpers.php:266
+#: admin/class-sis-handball-admin-viewhelpers.php:268
+msgid "Hide map link"
+msgstr "Link zur Karte entfernen"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:274
+#: admin/class-sis-handball-admin-viewhelpers.php:277
+#: admin/class-sis-handball-admin-viewhelpers.php:285
+#: admin/class-sis-handball-admin-viewhelpers.php:288
+msgid "Marked team"
+msgstr "Markierte Mannschaft"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:278
+msgid "Fetch teams"
+msgstr "Teams holen"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:279
+msgid "No teams fetched!"
+msgstr "Keine Teams gefunden!"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:280
+msgid "Hide manual input"
+msgstr "Manuelle Eingabe verstecken"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:280
+msgid "Show manual input"
+msgstr "Manuelle Eingabe anzeigen"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:294
+#: admin/class-sis-handball-admin-viewhelpers.php:297
+msgid "Teamname"
+msgstr "Mannschaftsname"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:303
+#: admin/class-sis-handball-admin-viewhelpers.php:306
+msgid "Generated shortcode"
+msgstr "Generierter Shortcode"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:334
+#: admin/class-sis-handball-admin-viewhelpers.php:354
+#: admin/class-sis-handball-admin-viewhelpers.php:356
+#: admin/class-sis-handball-admin-viewhelpers.php:405
+#: admin/class-sis-handball-admin.php:61
+msgid "Snapshots"
+msgstr "Snapshots"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:335
+#: admin/class-sis-handball-admin-viewhelpers.php:385
+msgid "New snapshot"
+msgstr "Neuer Snapshot"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:357
+msgid ""
+"Sometimes it makes sense to save the result of a shortcode for later use. If "
+"a season ends and you want to display scores from the last season, you can "
+"easily fire the shortcode for once and save the results in a snapshot."
+msgstr ""
+"Manchmal macht es Sinn das Ergebnis eines einzelnen Shortcodes für die "
+"spätere Nutzung zu speichern. Beispielsweise wenn eine Saison endet, man "
+"aber die Ergebnisse der letzten Saison weiterhin darstellen möchte. Schicke "
+"dazu einfach einen generierten Shortcode einmalig ab und es wird dir ein "
+"dauerhafter (undynamischer) Shortcode generiert."
+
+#: admin/class-sis-handball-admin-viewhelpers.php:360
+msgid "Create snapshot"
+msgstr "Snapshot erstellen"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:369
+msgid "Please use the shortcode generator, to generate a valid shortcode."
+msgstr ""
+"Nutze den Shortcode Generator um einen validen Shortcode zu generieren."
+
+#: admin/class-sis-handball-admin-viewhelpers.php:379
+#: admin/class-sis-handball-admin-viewhelpers.php:416
+#: admin/class-sis-handball-admin-viewhelpers.php:515
+msgid "Optional"
+msgstr "Optional"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:407
+msgid "Edit snapshot"
+msgstr "Snapshot bearbeiten"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:447
+#: admin/class-sis-handball-admin-viewhelpers.php:470
+#: admin/class-sis-handball-admin-viewhelpers.php:488
+#: admin/class-sis-handball-admin-viewhelpers.php:490
+#: admin/class-sis-handball-admin.php:62 admin/class-sis-handball-admin.php:246
+msgid "Concatenations"
+msgstr "Verkettungen"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:448
+#: admin/class-sis-handball-admin-viewhelpers.php:521
+msgid "New concatenation"
+msgstr "Neue Verkettung"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:471
+msgid "Add conditions to the concatenation"
+msgstr "Bedingungen zur Verkettung hinzufügen"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:491
+msgid ""
+"Concatenation allows you to add data from a single team to an concatenated "
+"shortcode, to display team-transcending data in a single view."
+msgstr ""
+"Verkettungen erlauben es Daten verschiedener Teams zu kombinieren und "
+"gemeinsam auszugeben, so wird es möglich mannschaftsübergreifende Daten in "
+"einer gemeinsamen Ansicht darzustellen."
+
+#: admin/class-sis-handball-admin-viewhelpers.php:492
+msgid ""
+"This feature is in a testing phase, you can only concatenate the next game "
+"of multiple teams to generate an overview of all next games within the whole "
+"club.!"
+msgstr ""
+"Diese Funktion befindet sich in einer Testphase. Es ist momentan nur möglich "
+"die nächsten Spiele mehrerer Mannschaften zu einem Überblick aller nächsten "
+"Spiele des Vereins zu verketten!"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:495
+msgid "Create concatenation"
+msgstr "Verkettung erstellen"
+
+#: admin/class-sis-handball-admin-viewhelpers.php:504
+msgid "Next games of multiple teams"
+msgstr "Nächste Spiele mehrerer Teams"
+
+#: admin/class-sis-handball-admin.php:59
+msgid "SIS Handball - Settings"
+msgstr "SIS Handball - Einstellungen"
+
+#: admin/class-sis-handball-admin.php:60
+msgid "SIS Handball - Shortcode generator"
+msgstr "SIS Handball - Shortcode Generator"
+
+#: admin/class-sis-handball-admin.php:61
+msgid "SIS Handball - Snapshots"
+msgstr "SIS Handball - Snapshots"
+
+#: admin/class-sis-handball-admin.php:62
+msgid "SIS Handball - Concatenations"
+msgstr "SIS Handball - Verkettungen"
+
+#: admin/class-sis-handball-admin.php:106
+msgid "Settings updated"
+msgstr "Einstellungen aktualisiert"
+
+#: admin/class-sis-handball-admin.php:111
+msgid "Cache cleared"
+msgstr "Cache geleert"
+
+#: admin/class-sis-handball-admin.php:113
+msgid "Cache could not be cleared"
+msgstr "Cache konnte nicht geleert werden"
+
+#: admin/class-sis-handball-admin.php:121
+msgid "Translations updated"
+msgstr "Übersetzungen aktualisiert"
+
+#: admin/class-sis-handball-admin.php:147
+msgid "Snapshot created"
+msgstr "Snapshot erstellt"
+
+#: admin/class-sis-handball-admin.php:149
+msgid "Snapshot could not be created"
+msgstr "Snapshot konnte nicht erstellt werden"
+
+#: admin/class-sis-handball-admin.php:156
+msgid "Nothing changed"
+msgstr "Es wurde nichts verändert"
+
+#: admin/class-sis-handball-admin.php:158
+msgid "Snapshot saved"
+msgstr "Snapshot gespeichert"
+
+#: admin/class-sis-handball-admin.php:160
+msgid "Snapshot could not be saved"
+msgstr "Snapshot konnte nicht gespeichert werden"
+
+#: admin/class-sis-handball-admin.php:166
+msgid "Snapshot deleted"
+msgstr "Snapshot gelöscht"
+
+#: admin/class-sis-handball-admin.php:168
+msgid "Snapshot could not be deleted"
+msgstr "Snapshot konnte nicht gelöscht werden"
+
+#: admin/class-sis-handball-admin.php:191
+msgid "Concatenation deleted"
+msgstr "Verkettung gelöscht"
+
+#: admin/class-sis-handball-admin.php:193
+msgid "Concatenation could not be deleted"
+msgstr "Verkettung konnte nicht gelöscht werden"
+
+#: admin/class-sis-handball-admin.php:198
+msgid ""
+"Successfully created new concatenation, you can now add conditions to your "
+"new concatenation."
+msgstr ""
+"Erfolgreich eine neue Verkettung angelegt, es können jetzt Bedingungen zur "
+"Verkettung hinzugefügt werden."
+
+#: admin/class-sis-handball-admin.php:203
+msgid "Concatenation condition created"
+msgstr "Verkettungsbedingung erstellt"
+
+#: admin/class-sis-handball-admin.php:205
+msgid "Concatenation condition could not be created"
+msgstr "Verkettungsbedingung konnte nicht erstellt werden"
+
+#: admin/class-sis-handball-admin.php:211
+msgid "Concatenation condition deleted"
+msgstr "Verkettungsbedingung gelöscht"
+
+#: admin/class-sis-handball-admin.php:213
+msgid "Concatenation condition could not be deleted"
+msgstr "Verkettungsbedingung konnte nicht gelöscht werden"
+
+#: admin/class-sis-handball-admin.php:219
+msgid "Saved conditions in this concatenation"
+msgstr "Bereits gespeicherte Bedingungen in dieser Verkettung"
+
+#: admin/class-sis-handball-admin.php:248
+msgid "Edit concatenation"
+msgstr "Verkettung bearbeiten"
+
+#: admin/class-sis-handball-admin.php:267
+msgid "Update concatenation"
+msgstr "Verkettung aktualisieren"
+
+#: admin/class-sis-handball-admin.php:406
+msgid ""
+"Displays the last games of the selected team (date, time, opponent, result "
+"and points) and marks the selected team if it has won a game."
+msgstr ""
+"Zeigt die letzten Spiele des gewählten Teams an (Datum, Uhrzeit, Gegner, "
+"Ergebnis und Punkte) und markiert das gewählte Team wenn es gewonnen hat."
+
+#: admin/class-sis-handball-admin.php:407
+#: admin/class-sis-handball-admin.php:416
+#: admin/class-sis-handball-admin.php:425
+#: admin/class-sis-handball-admin.php:434
+#: admin/class-sis-handball-admin.php:443
+#: admin/class-sis-handball-admin.php:452
+msgid "Example"
+msgstr "Beispiel"
+
+#: admin/class-sis-handball-admin.php:415
+msgid ""
+"Displays all last games in the selected league (date, time, opponent, result "
+"and points) and marks the selected team if it has won a game."
+msgstr ""
+"Zeigt die letzten Spiele in der kompletten Liga an (Datum, Uhrzeit, Gegner, "
+"Ergebnis und Punkte) und markiert die gewählte Mannschaft wenn sie gewonnen "
+"hat."
+
+#: admin/class-sis-handball-admin.php:424
+msgid ""
+"Displays the current table (position, team, wins/losses, goals, points)."
+msgstr ""
+"Zeigt die aktuelle Tabelle an (Position, Mannschaft, Gewonnen/Verloren, "
+"Tore, Punkte)."
+
+#: admin/class-sis-handball-admin.php:433
+msgid ""
+"Displays the next games (date, time, opponent and optional link to google "
+"map) of the selected team. The table can be limited and the link to the "
+"google map can be removed."
+msgstr ""
+"Zeigt die nächsten Spiele (Datum, Uhrzeit, Gegner und optional einen Link zu "
+"Google Maps) des gewählten Teams an. Die Tabelle kann begrenzt werden und "
+"der Link zu Google Maps kann entfernt werden."
+
+#: admin/class-sis-handball-admin.php:442
+msgid ""
+"Displays a diagram with a new step for each gameday. The diagram is "
+"generated via google charts (javascript)."
+msgstr ""
+"Zeigt ein Diagramm an, welches an jedem Spieltag um einen Punkt erweitert "
+"wird. Das Diagramm wird über Google Charts erstellt (Javascript)."
+
+#: admin/class-sis-handball-admin.php:451
+msgid ""
+"Displays a table with data belonging to the selected team (position, games, "
+"goals, goals against, wins/losses)."
+msgstr ""
+"Zeigt Daten zur gewählten Mannschaft an (Position, Spiele, Tore, Gegentore, "
+"Gewonnen/Verloren)."
+
+#: public/class-sis-handball-public.php:226
+msgid "Last update:"
+msgstr "Letzte Aktualisierung:"
+
+#: public/class-sis-handball-public.php:428
+msgid "Position per gameday for: "
+msgstr "Tabellenplatz je Spieltag für: "
+
+#: public/class-sis-handball-public.php:436
+#: public/class-sis-handball-public.php:449
+msgid "Gameday"
+msgstr "Spieltag"
+
+#: public/class-sis-handball-public.php:436
+#: public/class-sis-handball-public.php:443
+#: public/class-sis-handball-public.php:634
+msgid "Position"
+msgstr "Platzierung"
+
+#: public/class-sis-handball-public.php:491
+#: public/class-sis-handball-public.php:572
+#: public/class-sis-handball-public.php:695
+msgid "Date"
+msgstr "Datum"
+
+#: public/class-sis-handball-public.php:492
+#: public/class-sis-handball-public.php:573
+#: public/class-sis-handball-public.php:696
+msgid "Time"
+msgstr "Zeit"
+
+#: public/class-sis-handball-public.php:493
+#: public/class-sis-handball-public.php:574
+#: public/class-sis-handball-public.php:697
+msgid "Home"
+msgstr "Heim"
+
+#: public/class-sis-handball-public.php:494
+#: public/class-sis-handball-public.php:575
+#: public/class-sis-handball-public.php:698
+msgid "Guest"
+msgstr "Gast"
+
+#: public/class-sis-handball-public.php:495
+#: public/class-sis-handball-public.php:537
+msgid "Goals"
+msgstr "Tore"
+
+#: public/class-sis-handball-public.php:496
+#: public/class-sis-handball-public.php:539
+msgid "Points"
+msgstr "Punkte"
+
+#: public/class-sis-handball-public.php:531
+msgid "No."
+msgstr "Nr."
+
+#: public/class-sis-handball-public.php:532
+msgid "Team"
+msgstr "Mannschaft"
+
+#: public/class-sis-handball-public.php:533
+msgid "Games"
+msgstr "Spiele"
+
+#: public/class-sis-handball-public.php:534
+#: public/class-sis-handball-public.php:638
+msgid "W"
+msgstr "G"
+
+#: public/class-sis-handball-public.php:535
+#: public/class-sis-handball-public.php:638
+msgid "T"
+msgstr "U"
+
+#: public/class-sis-handball-public.php:536
+#: public/class-sis-handball-public.php:638
+msgid "L"
+msgstr "V"
+
+#: public/class-sis-handball-public.php:538
+msgid "D"
+msgstr "D"
+
+#: public/class-sis-handball-public.php:607
+msgid "Show game location"
+msgstr "Spielort anzeigen"
+
+#: public/class-sis-handball-public.php:607
+msgid "Show Map"
+msgstr "Karte anzeigen"
+
+#: public/class-sis-handball-public.php:619
+msgid "more elements to show."
+msgstr "weitere Einträge anzeigen."
+
+#: public/class-sis-handball-public.php:635
+msgid "Games made"
+msgstr "Spiele"
+
+#: public/class-sis-handball-public.php:636
+msgid "Average goals made"
+msgstr "Ø Tore"
+
+#: public/class-sis-handball-public.php:637
+msgid "Average goals got"
+msgstr "Ø Gegentore"
+
+#~ msgid "Update"
+#~ msgstr "Aktualisieren"
+
+#~ msgid "Created snapshots"
+#~ msgstr "Erstellte Snapshots"
+
+#~ msgid "You have no created snapshots!"
+#~ msgstr "Du hast bisher noch keine Snapshots erstellt!"
+
+#~ msgid "Created concatenations"
+#~ msgstr "Erstellte Verkettungen"
+
+#~ msgid "Back"
+#~ msgstr "Zurück"
+
+#~ msgid "Next"
+#~ msgstr "Weiter"
+
+#~ msgid "You have no created concatenations!"
+#~ msgstr "Du hast noch keine Verkettungen erstellt!"
+
+#~ msgid ""
+#~ "Caching the data makes your site much faster. The data will be updated "
+#~ "every 8 hours."
+#~ msgstr ""
+#~ "Der Cache macht deine Seite bedeutend schneller. Die Daten werden alle 8 "
+#~ "Stunden aktualisiert."
